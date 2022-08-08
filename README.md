@@ -1,9 +1,10 @@
 ### Hi there 👋
-👀 I’m interested in programming
 
-🌱 I have graduated B.Sc. in Computer Science
+👀 Interested in programming
 
-💞️ I’m looking to collaborate on any project
+🌱 Graduated B.Sc. in Computer Science
+
+💞️ Looking to collaborate on any project
 
 📫 You can reach me via E-mail tamir111994@gmail.com
 
@@ -16,14 +17,4 @@ Other Interests - Bash, Linux, Automation, Virtualiztion, Devops, Data Science, 
 <!--
 **TamirAtia/TamirAtia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
