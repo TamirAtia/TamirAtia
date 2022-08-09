@@ -6,7 +6,7 @@
 
 💞️ Looking to collaborate on any project
 
-📫 You can reach me via E-mail tamir111994@gmail.com
+📫 You can reach me via E-mail tamiratia21@gmail.com
 
 ⬆️ LinkedIn - https://www.linkedin.com/in/tamir-atia/
 
